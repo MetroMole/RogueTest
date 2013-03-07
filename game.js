@@ -26,7 +26,7 @@ var Game = {
             if (value) { return; }
             
             var key = x+","+y;
-            this.map[key] = "|";
+            this.map[key] = ":";
             freeCells.push(key);
         }
         digger.create(digCallback.bind(this));
