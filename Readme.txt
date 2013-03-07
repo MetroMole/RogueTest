@@ -1,0 +1,1 @@
+Hey!  If you've found this, I apologize for how silly it is.  I'm just playing around with some JS and am looking to modify this basic tutorial that was created into maybe something more my own.  Anyways, thanks for stopping by!
